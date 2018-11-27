@@ -1,2 +1,2 @@
 # Robotics
-Robotics classes in high school.
+Robotic classes in high school.
